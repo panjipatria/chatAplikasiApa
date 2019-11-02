@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "210303714177",
+    "firebase_url": "https://chatbot-dfb6e.firebaseio.com",
+    "project_id": "chatbot-dfb6e",
+    "storage_bucket": "chatbot-dfb6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210303714177:android:c9a69534bf89138e64de80",
+        "android_client_info": {
+          "package_name": "com.pandev.androidfundamental.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210303714177-r1mbri5nc9fhnol656uu8l8afc6l13us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pandev.androidfundamental.chatbot",
+            "certificate_hash": "c2f3b428eced0977bc56b53f985c8725ff44448c"
+          }
+        },
+        {
+          "client_id": "210303714177-toqu932o2lcqct3na2gdickf079ru4ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDrGDdjeskdqxzdg49ldzK1cwMQSE4_kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210303714177-toqu932o2lcqct3na2gdickf079ru4ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
